@@ -1,0 +1,11 @@
+Package: pav5
+Type: Package
+Title: Latihan
+Version: 0.1.0
+Author: Lintang
+Maintainer: Lintang <21611123@students.uii.ac.id>
+Description: tentang membuat packages.
+License: 'use_gpl3_license()'
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
